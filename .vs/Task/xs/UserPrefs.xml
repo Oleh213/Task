@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{799A52BE-01B5-4217-B91C-46904907D6A9}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/oleh/Document/Task/Task/Task/BusinessLogic/DogsActionsBL.cs" relfile="Task/BusinessLogic/DogsActionsBL.cs" line="80" column="1" />
+      <Breakpoint file="/Users/oleh/Document/Task/Task/TaskTesting/DogsActionsTests.cs" relfile="TaskTesting/DogsActionsTests.cs" line="117" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTesting/DogsActionsTests.cs">
+    <Files>
+      <File FileName="Task/Controllers/DogsController.cs" Line="54" Column="18" />
+      <File FileName="Task/BusinessLogic/DogsActionsBL.cs" Line="23" Column="43" />
+      <File FileName="Task/DBContext/DogsContext.cs" />
+      <File FileName="Task/Interfaces/IDogsActionsBL.cs" />
+      <File FileName="Task/Models/Response.cs" />
+      <File FileName="Task/Models/GetDogsModel.cs" />
+      <File FileName="Task/appsettings.json" />
+      <File FileName="Task/Models/AddDogModel.cs" />
+      <File FileName="Task/Interfaces/ILoggerBL.cs" />
+      <File FileName="Task/Context/Logger.cs" />
+      <File FileName="Task/BusinessLogic/LoggetBL.cs" Line="1" Column="1" />
+      <File FileName="Task/Program.cs" />
+      <File FileName="TaskTesting/Usings.cs" />
+      <File FileName="Task/Context/Dog.cs" />
+      <File FileName="TaskTesting/DogsActionsTests.cs" Line="116" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task" expanded="True">
+            <Node name="Task" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="BusinessLogic" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DBContext" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="TaskTesting" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Task" expanded="True">
+            <Node name="TaskTesting" expanded="True">
+              <Node name="TaskTesting" expanded="True">
+                <Node name="DogsActionsTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
